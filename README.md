@@ -4,6 +4,8 @@ The Power Sprout was designed to be a very inexpensive, flexible, eurorack power
 
 Highly inspired by/copied from Timo Rozendal’s USBpowerthingy and Winterbloom’s Micronova. Thanks for open sourcing your designs so I could learn and riff on them. I can only hope someone is inspired by this to make their own version.
 
+![Assembled Power Sprout w/ no resistors, and shorted D1 and F1, to be used with USB-C connector with built in pull downs](/assets/images/Power_Sprout_crop.jpg)
+
 # Supporting Documents
 
 [Schematic](/Hardware/Schematic/Power%20Sprout%20Schematic.pdf)  
@@ -14,6 +16,7 @@ Highly inspired by/copied from Timo Rozendal’s USBpowerthingy and Winterbloom�
 ## Input Voltage
 
 The DD1718PA can boost anything from 3.3-11 volts to \+/-12 volts, but the lower the input voltage the higher the input current will be, so…  
+
 ![Diptrace](/assets/images/Screenshot%202025-09-08%20145948.png)
 
 ## Diode
