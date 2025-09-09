@@ -6,7 +6,7 @@ Highly inspired by/copied from Timo Rozendalâ€™s USBpowerthingy and Winterbloomâ
 
 # Supporting Documents
 
-[Schematic](/Hardware/Schematic/Power Sprout Schematic.pdf)  
+[Schematic](/Hardware/Schematic/Power%20Sprout%20Schematic.pdf)  
 [BOM](/Hardware/BOM/BOM.CSV)
 
 # Considerations Before Getting Started
