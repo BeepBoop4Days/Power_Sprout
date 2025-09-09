@@ -1,10 +1,10 @@
-Reference	Qty	Value	Datasheet
-C9,C10,C11	3	100u	~
-D1	1	Barrier	https://www.mouser.com/datasheet/2/916/PMEG3030EP-2938808.pdf
-F1	1	2A?	https://www.mouser.com/catalog/specsheets/bourns_05302019_MF-PSML-X_datasheet.pdf
-J1	1	Conn_02x08_Odd_Even	~
-J2	1	Conn_01x06_Pin	~
-J3	1	Screw_Terminal_01x04	~
-R1,R2	2	5.1K	~
-TH1	1	MOV	https://www.mouser.com/datasheet/2/87/eaton_mlvc_general_type_multilayer_varistor_esd_su-1994298.pdf
-U1	1	DD1718PA	
+"Reference","Qty","Value","Datasheet"
+"C9,C10,C11","3","100u","~"
+"D1","1","Barrier","https://www.mouser.com/datasheet/2/916/PMEG3030EP-2938808.pdf"
+"F1","1","2A?","https://www.mouser.com/catalog/specsheets/bourns_05302019_MF-PSML-X_datasheet.pdf"
+"J1","1","Conn_02x08_Odd_Even","~"
+"J2","1","Conn_01x06_Pin","~"
+"J3","1","Screw_Terminal_01x04","~"
+"R1,R2","2","5.1K","~"
+"TH1","1","MOV","https://www.mouser.com/datasheet/2/87/eaton_mlvc_general_type_multilayer_varistor_esd_su-1994298.pdf"
+"U1","1","DD1718PA",""
