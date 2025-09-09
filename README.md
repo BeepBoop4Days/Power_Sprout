@@ -1,4 +1,4 @@
-# Power Sprout Assembly Guide
+# Power Sprout Assembly Guide, aZach_Release
 
 The Power Sprout was designed to be a very inexpensive, flexible, eurorack power supply for a small rack or bench testing. It is good for someone’s first SMT project, but does not require SMT to work (other than shorting some pads). 
 
@@ -14,7 +14,7 @@ Highly inspired by/copied from Timo Rozendal’s USBpowerthingy and Winterbloom�
 ## Input Voltage
 
 The DD1718PA can boost anything from 3.3-11 volts to \+/-12 volts, but the lower the input voltage the higher the input current will be, so…  
-![][image1]
+![][/assets/images/Screenshot 2025-09-08 145948.png]
 
 ## Diode
 
