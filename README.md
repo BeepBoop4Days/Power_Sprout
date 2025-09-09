@@ -14,7 +14,7 @@ Highly inspired by/copied from Timo Rozendal’s USBpowerthingy and Winterbloom�
 ## Input Voltage
 
 The DD1718PA can boost anything from 3.3-11 volts to \+/-12 volts, but the lower the input voltage the higher the input current will be, so…  
-![][/assets/images/Screenshot 2025-09-08 145948.png]
+![][/assets/images/Screenshot%202025-09-08%20145948.png]
 
 ## Diode
 
