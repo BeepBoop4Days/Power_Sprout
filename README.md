@@ -24,11 +24,11 @@ If using usb/5 volts or similar, where there is low risk of reverse polarity, an
 
 Footprint F1 is for a resettable polyfuse, and can be jumpered if using one isn’t desired. For USB implementations, jumpering from the input of D1 to the output of F1 is acceptable
 
-## ![][image2]
-
 ## 5 Volt Out 
 
 The Power Sprout presents the Voltage In at the 5 volt out of the eurorack connector. This is great if you’re using USB for the input, but less great if you pick 9 volts (as it will put 9 volts on your 5 volt bus and just ‘no’). There are two cut points under the DD1718PA to be used before soldering the module in place if you’re going to power it with anything other than 5 volts. 
+
+![Cut here if not using 5 Volt in](/assets/images/Screenshot%202025-09-08%20150059.png)
 
 ## USB-C
 
@@ -39,6 +39,7 @@ Not all USB sources can supply the needed power, but many will.
 You could add a USB PD IC, which would allow the board to properly negotiate 9 volts, with fall back modes, but that’s a little beyond the scope of this guide. 
 
 Finally, a USB-C to USB-A cable will almost always work, assuming the USB-A port can source the required power.
+![R1, R2, F1, and D1](/assets/images/Screenshot%202025-09-08%20150158.png)
 
 ## Ask, Ask, Ask…
 
