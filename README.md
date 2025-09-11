@@ -45,6 +45,10 @@ Footprint F1 is for a resettable polyfuse, and can be jumpered if using one isn�
 
 The Power Sprout presents the Voltage In at the 5 volt out of the eurorack connector. This is great if you’re using USB for the input, but less great if you pick 9 volts (as it will put 9 volts on your 5 volt bus and just ‘no’). There are two cut points under the DD1718PA to be used before soldering the module in place if you’re going to power it with anything other than 5 volts. 
 
+## J3
+
+J3 is a footprint for a 0.1” or 2.54mm pitch screw terminal for the power and ground rails, labeled on the back of the board.
+
 ## USB-C
 
 USB-C is slightly less than universal. Footprints R1 and R2 are provided to pull the CC1 and CC2 lines to ground with a 5.1 kohm resistor in order signal to the usb source that the Power Sprout needs 5 volts to start negotiating power needs (sorta). Some USB-C connectors have internal pull down resistors already installed, in which case do not populate R1 and R2
