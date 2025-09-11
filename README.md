@@ -28,7 +28,10 @@ The DD1718PA can boost anything from 3.3-11 volts to \+/-12 volts. It is importa
 For more information, see the screen grabs below and keep reading.
 
 ![Diptrace](/assets/images/Screenshot%202025-09-08%20145948.png)
+
 ![Cut here if not using 5 Volt in](/assets/images/Screenshot%202025-09-08%20150059.png)
+
+![R1, R2, F1, and D1](/assets/images/Screenshot%202025-09-08%20150158.png)
 
 ## Diode
 
@@ -51,7 +54,6 @@ Not all USB sources can supply the needed power, but many will.
 You could add a USB PD IC, which would allow the board to properly negotiate 9 volts, with fall back modes, but that’s a little beyond the scope of this guide. 
 
 Finally, a USB-C to USB-A cable will almost always work, assuming the USB-A port can source the required power.
-![R1, R2, F1, and D1](/assets/images/Screenshot%202025-09-08%20150158.png)
 
 ## Ask, Ask, Ask…
 
@@ -77,8 +79,6 @@ Solder the DD1718PA and pins.
 Solder the input connector,DD1718PA, 16 pin output connector, and capacitors, in that order. Be mindful of each orientation (follow the orientation on the silk screen for the connectors, align the negative stripe of the capacitors with the white half of the footprint, and the DD1718PA should fit within its footprint). 
 
 I like to solder the connectors while mated with their cable to act as a bit of a heat sink. Solder one or two pins, check the connector is flat and level with the board, and then solder the remaining pins. Trim capacitor leads and DD1718PA pins.
-
-![][image3]
 
 ### Step 4\) Visual inspection
 
